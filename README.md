@@ -6,7 +6,7 @@ Este projeto é uma API REST desenvolvida em Java 17 com Spring Boot, destinada 
 
 - Java 17
 - Maven 3.8+
-- Oracle Database (FIAP)
+- PostgreSQL
 - IDE recomendada: IntelliJ IDEA ou VSCode
 
 ---
